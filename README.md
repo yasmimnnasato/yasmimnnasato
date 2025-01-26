@@ -36,8 +36,7 @@ Aqui estão alguns dos projetos mais recentes e interessantes em que trabalhei:
 
 Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmimnasato)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://seu-portfolio.com)
 
 ---
