@@ -1,11 +1,9 @@
 # 👋 Olá, eu sou Yasmim Nasato!
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor com foco em [área de atuação, ex: desenvolvimento web, análise de dados, etc.] e uma paixão por criar soluções inovadoras e eficientes. 🌟
+Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma estudante de front-end e uma paixão por criar soluções inovadoras e eficientes. 🌟
 
-- 🎓 **Experiência/Área de Estudo:** [Descreva brevemente sua experiência ou formação]
-- 🔭 **Atualmente, estou trabalhando em:** [Nome do Projeto ou Objetivo Atual]
-- 🌱 **Estou aprendendo:** [Tecnologias ou áreas de conhecimento em que você está se aprofundando]
-- 💬 **Pergunte-me sobre:** [Tecnologias ou temas que você domina e sobre os quais ficaria feliz em ajudar]
+- 🎓 **Experiências:** UI/UX; HTML; CSS e JavaScript.
+- 🌱 **Estou aprendendo:** Atualmente venho aprendendo front end e Pwoer BI.
 
 ---
 
@@ -16,6 +14,7 @@ Aqui estão algumas tecnologias e ferramentas que eu uso no meu dia a dia de tra
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
