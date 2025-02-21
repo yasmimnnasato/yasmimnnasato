@@ -26,11 +26,4 @@ Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
-
----
-
 **Gostou dos meus projetos?** Deixe uma ⭐ nos repositórios que você curtiu ou envie uma mensagem para bater um papo sobre tecnologia!
